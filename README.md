@@ -9,3 +9,4 @@ Template currently uses:
 - Prettier and ESlint for formatting + linting
 - Jest for testing framework
 - Webpack for bundling
+- Babel
